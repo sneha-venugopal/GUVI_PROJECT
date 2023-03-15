@@ -1,0 +1,28 @@
+.wrapper{
+    text-align:center;
+}
+input{
+    border: none;
+    background-color: skyblue;
+    border-radius: 5px;
+    align-items: center;
+    height:35px;
+    width:200px;
+   
+}
+.head{
+    background-color: red;
+    background-image: linear-gradient(darkblue, blue);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+button{
+    height:35px;
+    width:150px;
+    border:none;
+    border-radius: 5px;
+    background: darkblue;
+    color:white;
+}
